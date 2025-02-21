@@ -1,2 +1,2 @@
 # UKK
-Hasil dari uji kopetensi keahlian sebuah kalkulator sederahan
+# APLIKASI KALKULATOR SEDERHANA
